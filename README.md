@@ -8,7 +8,7 @@
 > Currently, I have mediocre grasp on JavaScript, HTML, CSS, and C.
 
 ---
-### Education Background
+### Educational Background
  Science Student
 
  Currently Pursuing B.S.(Research) at [IISc,Bangalore](https://www.iisc.ac.in/ "IISc Homepage") (2021- present)
