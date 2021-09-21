@@ -1,6 +1,6 @@
 # Priyanshu Gupta (prigta008)
 
-##### _Last Updated on Sept. 20, 2021_
+##### _Last Updated on Sept. 21, 2021_
 ---
 
 ### Technical Background
@@ -25,3 +25,4 @@
 
  > [Bank Account Management System](https://github.com/prigta008/C_CODE/tree/main/BankMS)
  
+ > [To-Do App](https://github.com/prigta008/todo)
