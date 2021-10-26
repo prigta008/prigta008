@@ -1,11 +1,12 @@
 # Priyanshu Gupta (prigta008)
 
-##### _Last Updated on Sept. 21, 2021_
+##### _Last Updated on Oct. 26, 2021_
 ---
 
 ### Technical Background
  Started Learning Coding etc. since March 2020.
-> Currently, I have mediocre grasp on JavaScript, HTML, CSS, and C.
+ 
+ Currently, I have mediocre grasp on JavaScript, HTML, CSS, and C.
 
 ---
 ### Educational Background
@@ -26,3 +27,6 @@
  > [Bank Account Management System](https://github.com/prigta008/C_CODE/tree/main/BankMS)
  
  > [To-Do App](https://github.com/prigta008/todo)
+ 
+ > [Minimal Calendar](https://github.com/prigta008/minimal-calendar)
+ 
