@@ -1,24 +1,26 @@
 # Priyanshu Gupta (prigta008)
 
-##### _Last Updated on Oct. 26, 2021_
+##### _Last Updated on Jul. 6, 2025_
 ---
 
 ### Technical Background
- Started Learning Coding etc. since March 2020.
+ Started Learning Coding, etc., since March 2020.
  
- Currently, I have mediocre grasp on JavaScript, HTML, CSS, and C.
+ Currently, I have a mediocre grasp of JavaScript, HTML, CSS, and C.
 
 ---
 ### Educational Background
  Science Student
+ 
+ > PhD student at the University of Florida (Aug 2025 - present)
+ 
+ > B.S.(Research) at IISc, Bengaluru (2021 - 2025)
 
- Currently Pursuing B.S.(Research) at [IISc,Bangalore](https://www.iisc.ac.in/ "IISc Homepage") (2021- present)
-
- My interests of research including but not restricted to, are Organic Synthesis, Quantum Chemsitry.
+ My areas of research include, but are not restricted to, Organic Synthesis and computational chemistry.
 
 ---
 ### Hobbies
-  Reading, Coding, Watching TV shows etc.
+  Reading, Coding, watching TV shows, etc.
 
 ---
 ### Projects
